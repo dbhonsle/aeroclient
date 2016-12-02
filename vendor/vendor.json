@@ -1,0 +1,103 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "YcTYrgYIpG17Hj5tPXTqdVpVDNI=",
+			"path": "github.com/aerospike/aerospike-client-go",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "U4zrapQZrSyE9h+j+p6/8Jo0hyA=",
+			"path": "github.com/aerospike/aerospike-client-go/internal/lua",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "XbQ7dIXjGH+/wl5UyVWosqpuoys=",
+			"path": "github.com/aerospike/aerospike-client-go/internal/lua/resources",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "fYSpefZKMHv83OuzaDxQ0nHle7E=",
+			"path": "github.com/aerospike/aerospike-client-go/logger",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "W19k/UVPrMdsV1KM0VgDRLv1EvU=",
+			"path": "github.com/aerospike/aerospike-client-go/pkg/bcrypt",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "OIxaM040XKFig4zE9PZTTlI+s4M=",
+			"path": "github.com/aerospike/aerospike-client-go/pkg/ripemd160",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "hrEVJj3QF4vxUl3CrZb61XZKoa0=",
+			"path": "github.com/aerospike/aerospike-client-go/types",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "crBAbhJ37nT+JdAJ5MQ3jLLooAo=",
+			"path": "github.com/aerospike/aerospike-client-go/types/atomic",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "NrFI5vRv+LuYh1JrU4ggz7Kicsg=",
+			"path": "github.com/aerospike/aerospike-client-go/types/particle_type",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "ppGHWawcl+KrOXmnaH7MNK4Y6NA=",
+			"path": "github.com/aerospike/aerospike-client-go/types/rand",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "NrgxhIn8WonOIuXaf2ZbwxcWUYE=",
+			"path": "github.com/aerospike/aerospike-client-go/utils/buffer",
+			"revision": "d5e1682cb6e55f007b57dc831c974fee81d88c24",
+			"revisionTime": "2016-11-29T21:29:32Z"
+		},
+		{
+			"checksumSHA1": "mhvIMH8oAtOiEyg37zWKmgb+6v4=",
+			"path": "github.com/pborman/uuid",
+			"revision": "3d4f2ba23642d3cfd06bd4b54cf03d99d95c0f1b",
+			"revisionTime": "2016-10-05T15:16:09Z"
+		},
+		{
+			"checksumSHA1": "qZYakbYbm6fl8VnSZb95LlHHeKc=",
+			"path": "github.com/yuin/gopher-lua",
+			"revision": "7692488a1ad6bd06dc48890f4a149b65a86a767d",
+			"revisionTime": "2016-11-24T09:06:17Z"
+		},
+		{
+			"checksumSHA1": "yNGEI9BMDbGwabUnaHvV9ZZm/a0=",
+			"path": "github.com/yuin/gopher-lua/ast",
+			"revision": "7692488a1ad6bd06dc48890f4a149b65a86a767d",
+			"revisionTime": "2016-11-24T09:06:17Z"
+		},
+		{
+			"checksumSHA1": "RzAFlqrwEE/ybIrUhDQeIE8+7pM=",
+			"path": "github.com/yuin/gopher-lua/parse",
+			"revision": "7692488a1ad6bd06dc48890f4a149b65a86a767d",
+			"revisionTime": "2016-11-24T09:06:17Z"
+		},
+		{
+			"checksumSHA1": "lsdmE0I6R+1KjYPLM+Y9crLDyHw=",
+			"path": "github.com/yuin/gopher-lua/pm",
+			"revision": "7692488a1ad6bd06dc48890f4a149b65a86a767d",
+			"revisionTime": "2016-11-24T09:06:17Z"
+		}
+	],
+	"rootPath": "github.com/dbhonsle/aeroclient"
+}
